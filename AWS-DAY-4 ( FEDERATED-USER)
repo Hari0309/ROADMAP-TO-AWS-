@@ -1,0 +1,8 @@
+                  FEDERATE USER
+In AWS (Amazon Web Services), 
+Federated users refer to users who can access AWS resources using temporary credentials
+from an external identity provider (IdP) rather than using traditional AWS identity and access management (IAM) users. 
+This is achieved through the use of federated identity management protocols 
+such as Security Assertion Markup Language (SAML) or OpenID Connect (OIDC).
+An Federated user use an extra credential to login to aws account, he is an temperoarly user the aws account.
+He is not a valid user.
